@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530525568801",
+    "firebase_url": "https://allsocial-5669a.firebaseio.com",
+    "project_id": "allsocial-5669a",
+    "storage_bucket": "allsocial-5669a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530525568801:android:3ec067e07bc2a188f50860",
+        "android_client_info": {
+          "package_name": "com.example.allsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530525568801-0h043ua826b3ki25hkntjcpbu3vaecub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhG5Lgg24v1cc5eGAjx64kvKiP17sd0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530525568801-0h043ua826b3ki25hkntjcpbu3vaecub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

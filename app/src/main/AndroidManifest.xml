@@ -9,13 +9,30 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".InstagramFragment"></activity>
+        <activity android:name=".SnapchatFragment" />
+        <activity android:name=".TwitterFragment" />
+        <activity android:name=".GithubFragment" />
+        <activity android:name=".LinkedInFragment" />
+        <activity android:name=".YouTubeFragment" />
+        <activity android:name=".FacebookFragment" />
+        <activity
+            android:name=".MainActivity2"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".SignUpSocialMedia" />
+        <activity android:name=".Register" />
+        <activity android:name=".Login" />
+        <activity android:name=".FacebookQRActivity" />
     </application>
 
 </manifest>
